@@ -11,6 +11,5 @@ public class LaunchBrowser {
         System.out.println(getTitle);
         String getURL = driver.getCurrentUrl();
         System.out.println(getURL);
-
     }
 }
